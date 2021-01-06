@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <admin-texts>
+        <key name="sparta">
+            <key name="logo_text"/>
+            <key name="404_page"/>
+            <key name="blog_header_text"/>
+            <key name="blog_subheader_text"/>
+            <key name="blog_readmore_text"/>
+            <key name="wc_header_text"/>
+            <key name="wc_subheader_text"/>
+        </key>
+    </admin-texts>
+</wpml-config>

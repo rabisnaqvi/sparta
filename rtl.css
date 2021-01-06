@@ -1,0 +1,24 @@
+.underlined::after {
+    right: 0;
+}
+@media screen and (min-width: 769px) {
+    .topbar_wrapper .social_icons_wrapper {
+        float: right;
+    }
+    .topbar_wrapper .topbar_menu_wrapper {
+        float: left;
+    }
+    .topbar_wrapper .topbar_menu_wrapper ul {
+        float: left;
+    }
+}
+.cd-top {
+    right: inherit;
+    left: 30px;
+}
+.nav-tabs > li, .comments-area ol.comment-list li .comment-body .comment-author {
+    float: right;
+}
+.comments-area ol.comment-list li .comment-body .comment-metadata {
+    float: left;
+}

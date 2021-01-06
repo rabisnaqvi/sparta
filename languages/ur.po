@@ -1,0 +1,1840 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sparta Version 1.1\n"
+"POT-Creation-Date: 2017-01-19 22:16+0500\n"
+"PO-Revision-Date: \n"
+"Language-Team: Cheers Bin Network <support@cheersbin.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Language: ur_PK\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:8
+msgid "Are You Lost?"
+msgstr "تم کھو گئے؟"
+
+#: 404.php:9
+msgid "It's a 404 Error :("
+msgstr "یہ ایک 404 خامی ہے :("
+
+#: 404.php:10
+#, php-format
+msgid "Try Going Back To <a href=\"%s\">Homepage</a>"
+msgstr "‫<a href=\"%s\">مرکزی صفحہ</a> پر واپس جانے کی کوشش کریں"
+
+#: comments.php:16
+#, php-format
+msgctxt "comments title"
+msgid "One Response on &ldquo;%s&rdquo;"
+msgstr "‫&ldquo;%s&rdquo; پر ایک رسپانس"
+
+#: comments.php:21
+#, php-format
+msgctxt "comments title"
+msgid "%1$s response on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s responses on &ldquo;%2$s&rdquo;"
+msgstr[0] "‫&ldquo;%2$s&rdquo; پر %1$s تبصرہ"
+msgstr[1] "‫&ldquo;%2$s&rdquo; پر %1$s تبصرے "
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "تبصرے بند ہیں."
+
+#: comments.php:63
+msgid "Comment *"
+msgstr "تبصرہ *"
+
+#: comments.php:65
+msgid "Name *"
+msgstr ""
+
+#: comments.php:66
+msgid "Email *"
+msgstr ""
+
+#: comments.php:67
+msgid "Website"
+msgstr ""
+
+#: framework/initializations.php:6
+msgid "Topbar"
+msgstr ""
+
+#: framework/initializations.php:11
+msgid "Primary"
+msgstr ""
+
+#: framework/initializations.php:29
+msgctxt "Post Type General Name"
+msgid "Color Packs"
+msgstr ""
+
+#: framework/initializations.php:30
+msgctxt "Post Type Singular Name"
+msgid "Color Pack"
+msgstr ""
+
+#: framework/initializations.php:31
+msgid "Color Packs"
+msgstr ""
+
+#: framework/initializations.php:32
+msgid "Parent Color Pack"
+msgstr ""
+
+#: framework/initializations.php:33
+msgid "All Color Packs"
+msgstr ""
+
+#: framework/initializations.php:34
+msgid "View Color Pack"
+msgstr ""
+
+#: framework/initializations.php:35
+msgid "Add New Color Pack"
+msgstr ""
+
+#: framework/initializations.php:36
+msgid "Add New"
+msgstr ""
+
+#: framework/initializations.php:37
+msgid "Edit Color Pack"
+msgstr ""
+
+#: framework/initializations.php:38
+msgid "Update Color Pack"
+msgstr ""
+
+#: framework/initializations.php:39
+msgid "Search Color Pack"
+msgstr ""
+
+#: framework/initializations.php:40
+msgid "Color Pack Not Found"
+msgstr ""
+
+#: framework/initializations.php:41
+msgid "Color Pack Not found in Trash"
+msgstr ""
+
+#: framework/initializations.php:47
+msgid "color_packs"
+msgstr ""
+
+#: framework/initializations.php:112
+msgid "Default Sidebar"
+msgstr ""
+
+#: framework/initializations.php:114
+msgid "Default Sidebar used on Posts, Blog & Archive Pages"
+msgstr ""
+
+#: framework/initializations.php:123
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: framework/initializations.php:125
+msgid "Sidebar Used on Shop, Category and Single Product Pages"
+msgstr ""
+
+#: framework/initializations.php:135
+msgid "Upper Footer "
+msgstr ""
+
+#: framework/initializations.php:146
+msgid "Footer "
+msgstr ""
+
+#: framework/initializations.php:171
+msgid "Copyright Widget"
+msgstr ""
+
+#: framework/initializations.php:175
+msgid "Copyright Widget by Sparta. Most Useful in Lower Footer."
+msgstr ""
+
+#: framework/initializations.php:191
+msgid "Year From:"
+msgstr ""
+
+#: framework/initializations.php:193 framework/initializations.php:199
+msgid "Leave Blank For None"
+msgstr ""
+
+#: framework/initializations.php:197
+msgid "Copyright Text:"
+msgstr ""
+
+#: framework/js-composer.php:92
+msgid "Colorpack"
+msgstr ""
+
+#: framework/js-composer.php:108
+msgid "Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:30 framework/redux/config.php:31
+msgid "Options"
+msgstr ""
+
+#: framework/redux/config.php:124 framework/redux/config.php:126
+msgid ""
+"<p>Thanks for using one of Cheers Bin themes. You can customize your Site "
+"from this admin panel. Thanks.</p>"
+msgstr ""
+
+#: framework/redux/config.php:130
+msgid "<p>&copy; 2013 - "
+msgstr ""
+
+#: framework/redux/config.php:165
+msgid "Logo Image"
+msgstr ""
+
+#: framework/redux/config.php:170
+msgid "Logo Transparent Image"
+msgstr ""
+
+#: framework/redux/config.php:190
+msgid "Loader"
+msgstr ""
+
+#: framework/redux/config.php:230
+msgid "Menu Height"
+msgstr ""
+
+#: framework/redux/config.php:240
+msgid "Menu Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:249
+msgid "Topbar Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:258
+msgid "Capitalization"
+msgstr ""
+
+#: framework/redux/config.php:269
+msgid "Menu Change Point"
+msgstr ""
+
+#: framework/redux/config.php:279
+msgid "Menu Color Pack after Change"
+msgstr ""
+
+#: framework/redux/config.php:288
+msgid "Menu Height After Scroll Point"
+msgstr ""
+
+#: framework/redux/config.php:307
+msgid "Layout"
+msgstr ""
+
+#: framework/redux/config.php:326
+msgid "Comments Sections Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:344
+msgid "Upper Footer Columns"
+msgstr ""
+
+#: framework/redux/config.php:356
+msgid "Upper Footer Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:374
+msgid "Footer Columns"
+msgstr ""
+
+#: framework/redux/config.php:386
+msgid "Footer Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:401
+msgid "Back To Top Shape"
+msgstr ""
+
+#: framework/redux/config.php:420
+msgid "Facebook"
+msgstr ""
+
+#: framework/redux/config.php:425
+msgid "Twitter"
+msgstr ""
+
+#: framework/redux/config.php:430
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/redux/config.php:435
+msgid "Xing"
+msgstr ""
+
+#: framework/redux/config.php:440
+msgid "Google Plus"
+msgstr ""
+
+#: framework/redux/config.php:445
+msgid "Tumblr"
+msgstr ""
+
+#: framework/redux/config.php:450
+msgid "Pinterest"
+msgstr ""
+
+#: framework/redux/config.php:455
+msgid "Youtube"
+msgstr ""
+
+#: framework/redux/config.php:460
+msgid "Instagram"
+msgstr ""
+
+#: framework/redux/config.php:465
+msgid "Vine"
+msgstr ""
+
+#: framework/redux/config.php:470
+msgid "VK"
+msgstr ""
+
+#: framework/redux/config.php:484
+msgid "404 Page"
+msgstr ""
+
+#: framework/redux/config.php:552 framework/redux/config.php:899
+#: framework/redux/config.php:1337 framework/vc-elements/sparta_heading.php:57
+msgid "Header Type"
+msgstr ""
+
+#: framework/redux/config.php:566 framework/redux/config.php:913
+#: framework/redux/config.php:1351
+msgid "Header Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:581 framework/redux/config.php:928
+#: framework/redux/config.php:1366 framework/vc-elements/sparta_heading.php:78
+msgid "Heading Color"
+msgstr ""
+
+#: framework/redux/config.php:589 framework/redux/config.php:1374
+msgid "Sub Header Type"
+msgstr ""
+
+#: framework/redux/config.php:599 framework/redux/config.php:936
+#: framework/redux/config.php:1384
+msgid "Header Text Size"
+msgstr ""
+
+#: framework/redux/config.php:612 framework/redux/config.php:949
+#: framework/redux/config.php:1397 framework/vc-elements/sparta_heading.php:108
+msgid "Header Font Weight"
+msgstr ""
+
+#: framework/redux/config.php:624 framework/redux/config.php:961
+#: framework/redux/config.php:1409 framework/vc-elements/sparta_heading.php:118
+msgid "Header Font Alignment"
+msgstr ""
+
+#: framework/redux/config.php:642 framework/redux/config.php:979
+#: framework/redux/config.php:1427 framework/vc-elements/sparta_heading.php:138
+msgid "Header Underline Size"
+msgstr ""
+
+#: framework/redux/config.php:665 framework/redux/config.php:1002
+#: framework/redux/config.php:1450 framework/vc-elements/sparta_alert.php:69
+#: framework/vc-elements/sparta_button.php:123
+#: framework/vc-elements/sparta_counter.php:81
+#: framework/vc-elements/sparta_emphasis.php:61
+#: framework/vc-elements/sparta_heading.php:166
+#: framework/vc-elements/sparta_jumbotron.php:50
+#: framework/vc-elements/sparta_lead.php:55
+#: framework/vc-elements/sparta_panel.php:60
+#: framework/vc-elements/sparta_pricecolumn.php:223
+#: framework/vc-elements/sparta_progressbar.php:73
+#: framework/vc-elements/sparta_quote.php:68
+msgid "Margin Top"
+msgstr ""
+
+#: framework/redux/config.php:678 framework/redux/config.php:1014
+#: framework/redux/config.php:1463 framework/vc-elements/sparta_alert.php:78
+#: framework/vc-elements/sparta_button.php:132
+#: framework/vc-elements/sparta_counter.php:90
+#: framework/vc-elements/sparta_emphasis.php:70
+#: framework/vc-elements/sparta_heading.php:175
+#: framework/vc-elements/sparta_jumbotron.php:59
+#: framework/vc-elements/sparta_lead.php:64
+#: framework/vc-elements/sparta_panel.php:69
+#: framework/vc-elements/sparta_pricecolumn.php:232
+#: framework/vc-elements/sparta_progressbar.php:82
+#: framework/vc-elements/sparta_quote.php:77
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/redux/config.php:716 framework/redux/config.php:1051
+#: framework/redux/config.php:1501
+msgid "Overlay Grid"
+msgstr ""
+
+#: framework/redux/config.php:726 framework/redux/config.php:1511
+msgid "Background Image"
+msgstr ""
+
+#: framework/redux/config.php:731 framework/redux/config.php:1068
+#: framework/redux/config.php:1516
+msgid "Background Image Size"
+msgstr ""
+
+#: framework/redux/config.php:741 framework/redux/config.php:1078
+#: framework/redux/config.php:1526
+msgid "Background Image Repeat"
+msgstr ""
+
+#: framework/redux/config.php:753 framework/redux/config.php:1090
+#: framework/redux/config.php:1538
+msgid "Background Image Vertical Position"
+msgstr ""
+
+#: framework/redux/config.php:763 framework/redux/config.php:1100
+#: framework/redux/config.php:1548
+msgid "Background Image Attachment"
+msgstr ""
+
+#: framework/redux/config.php:782
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/redux/config.php:810
+msgid "Blog Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:819
+msgid "Single Post Title Type"
+msgstr ""
+
+#: framework/redux/config.php:845
+msgid "Read More Style"
+msgstr ""
+
+#: framework/redux/config.php:855 framework/redux/config.php:1197
+msgid "Post Meta"
+msgstr ""
+
+#: framework/redux/config.php:856
+msgid ""
+"With this section you can customize what you want to show below the title on "
+"Blog Page."
+msgstr ""
+
+#: framework/redux/config.php:1061
+msgid "For Single Post Which Have Featured Image Set"
+msgstr ""
+
+#: framework/redux/config.php:1123
+msgid "Single Post Layout"
+msgstr ""
+
+#: framework/redux/config.php:1124
+msgid "4th Option is Recommended"
+msgstr ""
+
+#: framework/redux/config.php:1152
+msgid "Single Post Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:1161
+msgid "Single Post Sharing Styling"
+msgstr ""
+
+#: framework/redux/config.php:1173
+msgid "Sharing Options"
+msgstr ""
+
+#: framework/redux/config.php:1251
+msgid "General Shop Color Pack"
+msgstr ""
+
+#: framework/redux/config.php:1260
+msgid "WooCommerce Layout"
+msgstr ""
+
+#: framework/redux/config.php:1295
+msgid "Product Columns"
+msgstr ""
+
+#: framework/redux/config.php:1579
+msgid "Button Icon Colour"
+msgstr ""
+
+#: framework/redux/config.php:1754
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/redux/config.php:1755
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/redux/config.php:1771
+msgid "Custom JavaScript"
+msgstr ""
+
+#: framework/redux/config.php:1772
+msgid "Loaded in Footer."
+msgstr ""
+
+#: framework/redux/config.php:1792
+msgid "Site Favicon"
+msgstr ""
+
+#: framework/redux/config.php:1808
+msgid "Classic iPhone / iPod"
+msgstr ""
+
+#: framework/redux/config.php:1815
+msgid "iPad"
+msgstr ""
+
+#: framework/redux/config.php:1822
+msgid "iPhone / iPod Retina"
+msgstr ""
+
+#: framework/redux/config.php:1829
+msgid "iPad Retina"
+msgstr ""
+
+#: framework/redux/config.php:1836
+msgid "iPhone 6 Plus"
+msgstr ""
+
+#: framework/redux/config.php:1843
+msgid "Android Regular"
+msgstr ""
+
+#: framework/redux/config.php:1850
+msgid "Android Hi-Res"
+msgstr ""
+
+#: framework/redux/config.php:1865
+msgid "Google Analytics"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:25
+msgid "Sparta Alert"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:27
+msgid "Displays a alert box representing a state."
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:28
+#: framework/vc-elements/sparta_button.php:28
+#: framework/vc-elements/sparta_counter.php:28
+#: framework/vc-elements/sparta_emphasis.php:28
+#: framework/vc-elements/sparta_heading.php:30
+#: framework/vc-elements/sparta_jumbotron.php:28
+#: framework/vc-elements/sparta_lead.php:30
+#: framework/vc-elements/sparta_panel.php:28
+#: framework/vc-elements/sparta_pricecolumn.php:28
+#: framework/vc-elements/sparta_progressbar.php:29
+#: framework/vc-elements/sparta_quote.php:28
+msgid "Sparta"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:33
+#: framework/vc-elements/sparta_emphasis.php:33
+msgid "Text Type"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:35
+#: framework/vc-elements/sparta_emphasis.php:35
+msgid "Type of text."
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:43
+#: framework/vc-elements/sparta_jumbotron.php:34
+#: framework/vc-elements/sparta_panel.php:44
+msgid "Title"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:45
+#: framework/vc-elements/sparta_panel.php:46
+msgid "Title of the alert box displayed as a bold text."
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:52
+#: framework/vc-elements/sparta_emphasis.php:53
+#: framework/vc-elements/sparta_jumbotron.php:42
+#: framework/vc-elements/sparta_progressbar.php:47
+#: framework/vc-elements/sparta_quote.php:44
+msgid "Text"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:54
+#: framework/vc-elements/sparta_emphasis.php:55
+#: framework/vc-elements/sparta_jumbotron.php:44
+msgid "Text to be displayed"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:60
+msgid "Dismisable"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:62
+msgid "Turn on to make alert box dismisable"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:71
+#: framework/vc-elements/sparta_button.php:125
+#: framework/vc-elements/sparta_counter.php:83
+#: framework/vc-elements/sparta_emphasis.php:63
+#: framework/vc-elements/sparta_heading.php:168
+#: framework/vc-elements/sparta_jumbotron.php:52
+#: framework/vc-elements/sparta_lead.php:57
+#: framework/vc-elements/sparta_panel.php:62
+#: framework/vc-elements/sparta_pricecolumn.php:225
+#: framework/vc-elements/sparta_progressbar.php:75
+#: framework/vc-elements/sparta_quote.php:70
+msgid "Amount of space to add above this element."
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:80
+#: framework/vc-elements/sparta_button.php:134
+#: framework/vc-elements/sparta_counter.php:92
+#: framework/vc-elements/sparta_emphasis.php:72
+#: framework/vc-elements/sparta_heading.php:177
+#: framework/vc-elements/sparta_jumbotron.php:61
+#: framework/vc-elements/sparta_lead.php:66
+#: framework/vc-elements/sparta_panel.php:71
+#: framework/vc-elements/sparta_pricecolumn.php:234
+#: framework/vc-elements/sparta_progressbar.php:84
+#: framework/vc-elements/sparta_quote.php:79
+msgid "Amount of space to add below this element."
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:87
+#: framework/vc-elements/sparta_button.php:141
+#: framework/vc-elements/sparta_counter.php:99
+#: framework/vc-elements/sparta_emphasis.php:79
+#: framework/vc-elements/sparta_heading.php:184
+#: framework/vc-elements/sparta_jumbotron.php:68
+#: framework/vc-elements/sparta_lead.php:73
+#: framework/vc-elements/sparta_panel.php:78
+#: framework/vc-elements/sparta_pricecolumn.php:241
+#: framework/vc-elements/sparta_progressbar.php:91
+#: framework/vc-elements/sparta_quote.php:86
+msgid "Scroll Animation"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:89
+#: framework/vc-elements/sparta_button.php:143
+#: framework/vc-elements/sparta_counter.php:101
+#: framework/vc-elements/sparta_emphasis.php:81
+#: framework/vc-elements/sparta_heading.php:186
+#: framework/vc-elements/sparta_jumbotron.php:70
+#: framework/vc-elements/sparta_lead.php:75
+#: framework/vc-elements/sparta_panel.php:80
+#: framework/vc-elements/sparta_pricecolumn.php:243
+#: framework/vc-elements/sparta_progressbar.php:93
+#: framework/vc-elements/sparta_quote.php:88
+msgid "Animation that will occur when the user scrolls onto the element."
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:173
+#: framework/vc-elements/sparta_button.php:227
+#: framework/vc-elements/sparta_counter.php:185
+#: framework/vc-elements/sparta_emphasis.php:165
+#: framework/vc-elements/sparta_heading.php:270
+#: framework/vc-elements/sparta_jumbotron.php:154
+#: framework/vc-elements/sparta_lead.php:159
+#: framework/vc-elements/sparta_panel.php:164
+#: framework/vc-elements/sparta_pricecolumn.php:327
+#: framework/vc-elements/sparta_progressbar.php:177
+#: framework/vc-elements/sparta_quote.php:172
+msgid "Animation Delay"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:175
+#: framework/vc-elements/sparta_button.php:229
+#: framework/vc-elements/sparta_counter.php:187
+#: framework/vc-elements/sparta_emphasis.php:167
+#: framework/vc-elements/sparta_heading.php:272
+#: framework/vc-elements/sparta_jumbotron.php:156
+#: framework/vc-elements/sparta_lead.php:161
+#: framework/vc-elements/sparta_panel.php:166
+#: framework/vc-elements/sparta_pricecolumn.php:329
+#: framework/vc-elements/sparta_progressbar.php:179
+#: framework/vc-elements/sparta_quote.php:174
+msgid ""
+"Delay after scrolling onto the element before animation starts in seconds."
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:184
+#: framework/vc-elements/sparta_button.php:238
+#: framework/vc-elements/sparta_counter.php:196
+#: framework/vc-elements/sparta_emphasis.php:176
+#: framework/vc-elements/sparta_heading.php:158
+#: framework/vc-elements/sparta_jumbotron.php:165
+#: framework/vc-elements/sparta_lead.php:170
+#: framework/vc-elements/sparta_panel.php:175
+#: framework/vc-elements/sparta_pricecolumn.php:338
+#: framework/vc-elements/sparta_progressbar.php:188
+#: framework/vc-elements/sparta_quote.php:183
+msgid "Extra Classes"
+msgstr ""
+
+#: framework/vc-elements/sparta_alert.php:186
+#: framework/vc-elements/sparta_button.php:240
+#: framework/vc-elements/sparta_counter.php:198
+#: framework/vc-elements/sparta_emphasis.php:178
+#: framework/vc-elements/sparta_heading.php:160
+#: framework/vc-elements/sparta_jumbotron.php:167
+#: framework/vc-elements/sparta_lead.php:172
+#: framework/vc-elements/sparta_panel.php:177
+#: framework/vc-elements/sparta_pricecolumn.php:340
+#: framework/vc-elements/sparta_progressbar.php:190
+#: framework/vc-elements/sparta_quote.php:185
+msgid "Space Separated Extra Classes"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:25
+msgid "Sparta Button"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:27
+msgid "A button with or without icon"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:34
+msgid "Button Type"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:36
+msgid "Type of button to display."
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:43
+msgid "Button Size"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:45
+msgid "Size of button to display."
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:53
+#: framework/vc-elements/sparta_pricecolumn.php:115
+msgid "Button Text"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:55
+msgid "Text that will be used on the Button."
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:61
+#: framework/vc-elements/sparta_pricecolumn.php:124
+msgid "Button Link"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:68
+msgid "Icon Position"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:70
+msgid "On which side you'd like icon to appear?"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:77
+msgid "Icon"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:79
+msgid "Icon to Display"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:86
+msgid "Custom Color"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:88
+msgid "Would you like to change the colors of button?"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:95
+msgid "Button Background"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:97
+msgid "This will be the background of button"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:104
+msgid "Button Text Color"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:106
+msgid "This will be the text color of button"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:113
+msgid "Button Alignment"
+msgstr ""
+
+#: framework/vc-elements/sparta_button.php:115
+msgid "Align the button left, right or center."
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:25
+msgid "Sparta Counter"
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:27
+msgid "An animated number transition element"
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:33
+msgid "Initial Value"
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:42
+msgid "End Value"
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:51
+#: framework/vc-elements/sparta_emphasis.php:42
+msgid "Text Alignment"
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:53
+msgid "Align the counter left, right or center."
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:61
+msgid "Font Size"
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:63
+msgid "Choose size of the font to use in your counter."
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:71
+msgid "Font Weight"
+msgstr ""
+
+#: framework/vc-elements/sparta_counter.php:73
+msgid "Choose weight of the font to use in the counter."
+msgstr ""
+
+#: framework/vc-elements/sparta_emphasis.php:25
+msgid "Sparta Emphasis Text"
+msgstr ""
+
+#: framework/vc-elements/sparta_emphasis.php:27
+msgid "Some text with a color representing a state."
+msgstr ""
+
+#: framework/vc-elements/sparta_emphasis.php:44
+msgid "Align the text left, right or center."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:27
+msgid "Sparta Heading"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:29
+msgid "Sparta Heading Element with Customizations"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:39
+msgid "Header Text"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:41
+msgid "Text that will be used for the header."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:48
+msgid "Sub Header"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:50
+msgid "Text that will be used for the Sub header."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:59
+msgid "Choose the type of header you want to use."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:67
+msgid "Override section Color Pack"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:69
+msgid "Set to On to override the color pack of the section."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:80
+msgid "Set the color of the heading."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:88
+msgid "Sub Header Font Size"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:90
+msgid "Choose size of the font to use in your sub header."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:98
+msgid "Header Font Size"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:100
+msgid "Choose size of the font to use in your header."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:110
+msgid "Choose weight of the font to use in the header."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:120
+msgid "Align the text shown in the header left, right or center."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:128
+msgid "Header Underline"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:130
+msgid "Adds an underline effect below the header."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:140
+msgid "Size of the underline."
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:148
+msgid "Fade Out When Leaving Page"
+msgstr ""
+
+#: framework/vc-elements/sparta_heading.php:150
+msgid "Fades the heading out when the heading leaves the page."
+msgstr ""
+
+#: framework/vc-elements/sparta_jumbotron.php:25
+msgid "Sparta Jumbotron"
+msgstr ""
+
+#: framework/vc-elements/sparta_jumbotron.php:27
+msgid "Displays a Jumbo section with title and text."
+msgstr ""
+
+#: framework/vc-elements/sparta_jumbotron.php:36
+msgid "Title of the Jumbotron."
+msgstr ""
+
+#: framework/vc-elements/sparta_lead.php:27
+msgid "Sparta Lead"
+msgstr ""
+
+#: framework/vc-elements/sparta_lead.php:29
+msgid "A Paragraph with Larger and Bolder Text"
+msgstr ""
+
+#: framework/vc-elements/sparta_lead.php:36
+msgid "Font Alignment"
+msgstr ""
+
+#: framework/vc-elements/sparta_lead.php:38
+msgid "Align the text shown in the lead left, right or center."
+msgstr ""
+
+#: framework/vc-elements/sparta_lead.php:47
+msgid "Lead Text"
+msgstr ""
+
+#: framework/vc-elements/sparta_lead.php:49
+msgid "Text that will be used for the Lead Paragraph."
+msgstr ""
+
+#: framework/vc-elements/sparta_panel.php:25
+msgid "Sparta Panel"
+msgstr ""
+
+#: framework/vc-elements/sparta_panel.php:27
+msgid "Displays a Panel with a color representing a state."
+msgstr ""
+
+#: framework/vc-elements/sparta_panel.php:34
+msgid "Panel Type"
+msgstr ""
+
+#: framework/vc-elements/sparta_panel.php:36
+msgid "Style of panel to display"
+msgstr ""
+
+#: framework/vc-elements/sparta_panel.php:52
+msgid "Content"
+msgstr ""
+
+#: framework/vc-elements/sparta_panel.php:54
+msgid "Text & content to be displayed. You can use shortcodes here."
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:25
+msgid "Sparta Price Column"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:27
+msgid "A beautiful price info column"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:34
+msgid "Heading"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:36
+msgid "Text to be displayed on top of column"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:42
+msgid "Sub Text"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:44
+msgid "Text to be displayed below heading on top of column"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:50
+msgid "Currency"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:52
+msgid "Currency to be displayed. e.g, <code>$</code> or <code>Rs.</code>"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:59
+msgid "Decimal value of Price"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:61
+msgid ""
+"Enter the left part of your price value. e.g if your price is 4.65 then "
+"enter 4 here"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:70
+msgid "Float value of Price"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:72
+msgid ""
+"Enter the right part of your price value. e.g if your price is 4.65 then "
+"enter 65 here"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:81
+msgid "Text Below Price"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:83
+msgid ""
+"Text to be displayed below price. e.g, <code>-/ month</code> or <code>one "
+"time</code>"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:90
+msgid "Features"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:92
+msgid ""
+"Features which will be displayed in column. NOTE: ADD ONE FEATURE PER LINE "
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:98
+msgid "Text Below Features"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:100
+msgid "Text to be displayed below features on column"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:106
+msgid "Display Button"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:108
+msgid "Would you like to display a button in price column ?"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:117
+msgid "Text to be displayed on button"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:131
+msgid "Is Featured?"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:133
+msgid ""
+"Featured Columns are more attractive and have unique layout then non-"
+"featured columns."
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:140
+msgid "Primary Color"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:142
+msgid ""
+"Primary color is used on header and on featured/hovered price column's "
+"border."
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:149
+msgid "Primary Text Color"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:151
+msgid ""
+"Primary text color is used on top header text. On heading and sub heading of "
+"column"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:158
+msgid "2nd Color"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:160
+msgid ""
+"2ND color is used on background of price area. And on unhovered price "
+"column's border."
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:167
+msgid "2nd text color"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:169
+msgid ""
+"2nd text color is used on price of unhovered/non-featured price columns."
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:176
+msgid "3rd color"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:178
+msgid "3rd color is used as background of features, button area."
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:185
+msgid "3rd text color"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:187
+msgid "3rd text color is used on text of features area."
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:194
+msgid "Shadow color"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:196
+msgid "NOTE: Box shadow is only visible on featured columns."
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:207
+msgid "Button Background color"
+msgstr ""
+
+#: framework/vc-elements/sparta_pricecolumn.php:215
+msgid "Button Text color"
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:26
+msgid "Sparta Progress Bar"
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:28
+msgid "A Progress Bar with percentage value"
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:35
+msgid "Percentage Value"
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:37
+msgid "Percentage of the progress bar."
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:49
+msgid "Text to be displayed on the progress bar"
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:55
+msgid "Bar Type"
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:57
+msgid "Type of bar to display."
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:64
+msgid "Bar Style"
+msgstr ""
+
+#: framework/vc-elements/sparta_progressbar.php:66
+msgid "Style of bar to display."
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:25
+msgid "Sparta Quote"
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:27
+msgid "A quote with source/author."
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:33
+msgid "Quote Alignment"
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:35
+msgid "Align the quote left, right or center."
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:46
+msgid "Text of Quote"
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:52
+msgid "Who?"
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:54
+msgid "Said by Who?"
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:60
+msgid "Citation"
+msgstr ""
+
+#: framework/vc-elements/sparta_quote.php:62
+msgid "Citation of the quote"
+msgstr ""
+
+#: framework/woocommerce.php:21
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: framework/woocommerce.php:131
+msgctxt "sparta"
+msgid "Search Products"
+msgstr ""
+
+#: framework/woocommerce.php:131
+msgctxt "label"
+msgid "Search Products"
+msgstr ""
+
+#: layouts/blog/archive/blogpost_on_archive.php:10
+msgid "In"
+msgstr "میں"
+
+#: layouts/blog/archive/blogpost_on_archive.php:20
+msgid "On"
+msgstr "پر"
+
+#: layouts/blog/archive/blogpost_on_archive.php:20
+msgid "By"
+msgstr "سے"
+
+#: layouts/blog/archive/blogpost_on_archive.php:20
+msgid "Comments"
+msgstr "تبصرے"
+
+#: layouts/blog/archive/blogpost_on_archive.php:27
+msgid "read more"
+msgstr ""
+
+#: layouts/header/main_nav.php:29
+msgid "Search Here"
+msgstr "یہاں تلاش کریں"
+
+#: layouts/header/main_nav.php:52
+msgid "View your shopping cart"
+msgstr "آپ کی خریداری کی ٹوکری دیکھیں"
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search …"
+msgstr "تلاش کریں ..."
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:25 woocommerce/auth/form-login.php:27
+#, php-format
+msgid "%s would like to connect to your store"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:29
+#, php-format
+msgid ""
+"This will give \"%s\" <strong>%s</strong> access which will allow it to:"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:39
+#, php-format
+msgid "Logged in as %s"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:39
+msgid "Logout"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:43
+msgid "Approve"
+msgstr ""
+
+#: woocommerce/auth/form-grant-access.php:44
+msgid "Deny"
+msgstr ""
+
+#: woocommerce/auth/form-login.php:31
+#, php-format
+msgid ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"%2$scancel and return to %1$s%3$s"
+msgstr ""
+
+#: woocommerce/auth/form-login.php:35 woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/auth/form-login.php:39 woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr ""
+
+#: woocommerce/auth/form-login.php:44 woocommerce/global/form-login.php:48
+#: woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: woocommerce/auth/header.php:29
+msgid "Application Authentication Request"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:28
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:36
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+#: woocommerce/cart/mini-cart.php:80 woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart-totals.php:93
+#: woocommerce/cart/cart.php:42 woocommerce/cart/cart.php:123
+#: woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:106
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:82
+#: woocommerce/checkout/form-pay.php:29
+#: woocommerce/checkout/review-order.php:26
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:40 woocommerce/cart/cart.php:100
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:41 woocommerce/cart/cart.php:106
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:63 woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:95
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141 woocommerce/checkout/form-coupon.php:36
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141 woocommerce/checkout/form-coupon.php:40
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:155
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:72
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:86
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:39
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+#: woocommerce/cart/shipping-calculator.php:62
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:83
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:91
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:96
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:27
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:31
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:52
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:63
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:31
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:28
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:30
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:31
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:54
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/terms.php:17
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:27
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38 woocommerce/checkout/thankyou.php:69
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:55 woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:24
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:53
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:59
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+#: woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:45
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:66
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+#: woocommerce/myaccount/form-login.php:112
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:105
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:30
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:47
+msgid "Save"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:33
+#, php-format
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:41
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-attributes.php:38
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:45
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:48
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
