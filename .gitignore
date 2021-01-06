@@ -1,1 +1,3 @@
 .prettierrc
+lib/*.zip
+!code_house.zip
